@@ -1,0 +1,12 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+.env
+
+# Build folders
+frontend/build
+backend/build
+
+# Editor files
+.vscode/
+.DS_Store
